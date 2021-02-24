@@ -6,3 +6,4 @@ In questa repository sono raccolti i principali contenuti del corso sulla logica
 - Cos'è la logica
 - Tipi di logica
 - Funzioni di verità
+- Breve esempio risolutivo di una formula in logica classica e Fuzzy di Łukasiewicz.
